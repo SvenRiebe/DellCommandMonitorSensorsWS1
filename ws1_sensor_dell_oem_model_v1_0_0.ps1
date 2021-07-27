@@ -1,4 +1,3 @@
-  
 ##################################################################
 #
 # Name: Sensor Dell Notebook Model Name (need Dell Command Monitor on the device)
