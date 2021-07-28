@@ -1,6 +1,6 @@
 ##################################################################
 #
-# Name: Sensor for identifiy attached first display
+# Name: Sensor for identifiy attached first display (need Dell Command Monitor on the Client)
 # Author: Sven Riebe
 #
 # Status: validate
