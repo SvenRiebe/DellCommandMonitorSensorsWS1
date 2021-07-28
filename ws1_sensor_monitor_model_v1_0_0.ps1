@@ -1,6 +1,6 @@
 ##################################################################
 #
-# Name: Sensor for Dell Monitor Model primary display
+# Name: Sensor for Dell Monitor Model primary display (need Dell Command Monitor on the Client)
 # Author: Sven Riebe
 #
 # Status: validate
