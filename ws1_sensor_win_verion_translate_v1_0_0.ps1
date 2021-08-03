@@ -1,3 +1,14 @@
+##################################################################
+#
+# Name: Sensor Win10 Version is install on device
+# Author: Sven Riebe
+#
+# Status: validate
+#
+# Version 1.0.0
+#
+# Date: 07-06-2021
+
 $win_release = Switch (Get-CimInstance -ClassName Win32_OperatingSystem | select -ExpandProperty Version)
 {
     10.0.10240 {"1507 - Threshold 1"}
