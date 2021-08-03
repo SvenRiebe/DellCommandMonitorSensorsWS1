@@ -1,6 +1,6 @@
 ##################################################################
 #
-# Name: Sensor Dell check VMX status in BIOS (need Dell Command Monitor on the device)
+# Name: Sensor Dell check Trusted Execution status in BIOS (need Dell Command Monitor on the device)
 #
 # Author: Sven Riebe
 #
