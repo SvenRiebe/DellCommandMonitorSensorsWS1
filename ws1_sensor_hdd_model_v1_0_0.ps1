@@ -1,6 +1,6 @@
 ##################################################################
 #
-# Name: Sensor for HDD Model ID
+# Name: Sensor for HDD Model ID (Dell Command Monitor is needed)
 # Author: Sven Riebe
 #
 # Status: validate
