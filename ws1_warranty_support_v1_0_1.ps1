@@ -1,4 +1,16 @@
-﻿$supportname = Get-CimInstance -Namespace root\dcim\sysman -ClassName DCIM_AssetWarrantyInformation | Select -ExpandProperty Name
+##################################################################
+#
+# Name: Sensor Dell warrenty level information (need Dell Command Monitor on the device)
+#
+# Author: Sven Riebe
+#
+# Status: validate
+#
+# Version 1.0.0
+#
+# Date: 07-06-2021
+
+$supportname = Get-CimInstance -Namespace root\dcim\sysman -ClassName DCIM_AssetWarrantyInformation | Select -ExpandProperty Name
 
 if ($supportname -match "ProSupport*")
 {
